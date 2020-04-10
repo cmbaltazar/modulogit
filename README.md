@@ -7,5 +7,3 @@ Terceira linha
 Alterado e atualizado no GitHUb
 
 Alterado e atualizado no GitHUb2
-
-Alteracao
